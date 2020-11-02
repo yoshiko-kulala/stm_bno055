@@ -1,0 +1,11 @@
+bno055_stm32.h:20:6:bno055_assignI2C	16	static
+bno055_stm32.h:24:6:bno055_delay	16	static
+bno055_stm32.h:32:6:bno055_writeData	40	static
+bno055_stm32.h:96:6:bno055_readData	24	static
+main.c:63:6:uart_putc	24	static
+main.c:74:5:main	48	static
+main.c:136:6:SystemClock_Config	96	static
+main.c:183:13:MX_I2C1_Init	8	static
+main.c:229:13:MX_USART2_UART_Init	8	static
+main.c:264:13:MX_GPIO_Init	24	static
+main.c:282:6:Error_Handler	4	static
