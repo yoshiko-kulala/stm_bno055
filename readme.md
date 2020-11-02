@@ -1,5 +1,5 @@
 # stm_bno055
 
-‚¤‚²‚¢‚½‚Ÿ‚Ÿ‚Ÿ
-[ˆÌ‘å‚È‚éæl](https://github.com/ivyknob/bno055_stm32)‚ÌŠÛƒpƒNƒŠ
-ŒÂl‚ß‚à‚§
+ã†ã”ã„ãŸããã  
+[å‰å¤§ãªã‚‹å…ˆäºº](https://github.com/ivyknob/bno055_stm32)ã®ä¸¸ãƒ‘ã‚¯ãƒª  
+å€‹äººã‚ã‚‚ã‰  
